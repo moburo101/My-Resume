@@ -216,3 +216,7 @@
 .testimonial-carousel .owl-dot.active {
   background: var(--primary);
 }
+
+.move{
+  padding-top: 200px;
+}
