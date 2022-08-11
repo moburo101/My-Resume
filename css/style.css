@@ -224,3 +224,10 @@
 .text-color{
   color:var(--primary);
 }
+
+.port-btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
