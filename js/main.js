@@ -93,3 +93,12 @@
     });
 })(jQuery);
 
+var gitClick = document.getElementById('gitClick');
+
+// gitClick.addEventListener('click', function(){
+//     location.href = 'https://github.com/moburo101'
+// }, false);
+
+gitClick.addEventListener('click', function(){
+    window.open('https://github.com/moburo101', '_blank');
+});
